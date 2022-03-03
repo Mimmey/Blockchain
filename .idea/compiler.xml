@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="Blockchain.Blockchain-task-build-generated-sources-headers-java.main" />
+        <module name="Blockchain.Blockchain-task-build-test-results.main" />
+        <module name="Blockchain.Blockchain-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Blockchain.Blockchain-task-build-classes-java.main" />
+        <module name="Blockchain.Blockchain-task-build-classes-java.test" />
+        <module name="Blockchain.Blockchain-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Blockchain.Blockchain-task-build-generated-sources-headers-java.test" />
+        <module name="Blockchain.Blockchain-task-build-tmp.test" />
+        <module name="Blockchain.Blockchain-task-build-test-results.test" />
+        <module name="Blockchain.Blockchain-task-build-reports-tests.main" />
+        <module name="Blockchain.Blockchain-task.test" />
+        <module name="Blockchain.Blockchain-task.main" />
+        <module name="Blockchain.Blockchain-task-build-tmp.main" />
+        <module name="Blockchain.Blockchain-task-build-reports-tests.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Blockchain.Blockchain-task-build-classes-java.main" target="15" />
+      <module name="Blockchain.Blockchain-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Blockchain.Blockchain-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Blockchain.Blockchain-task-build-reports-tests.main" target="15" />
+      <module name="Blockchain.Blockchain-task-build-test-results.main" target="15" />
+      <module name="Blockchain.Blockchain-task-build-tmp.main" target="15" />
+      <module name="Blockchain.Blockchain-task.main" target="15" />
+      <module name="Blockchain.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
